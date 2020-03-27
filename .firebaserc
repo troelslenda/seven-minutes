@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dgi-it-eef5d": {
+      "hosting": {
+        "seven-min": [
+          "dgi-it-eef5d"
+        ],
+        "onsdagsmotion": [
+          "onsdagsmotion"
+        ]
+      }
+    }
+  }
+}
